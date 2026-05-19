@@ -1,0 +1,10 @@
+                                exp(coef)  exp(coef) lower 95%  exp(coef) upper 95%             p
+covariate                                                                                        
+MonthlyCharges                   1.037093             1.032135             1.042075  3.532691e-50
+TotalCharges                     0.998373             0.998296             0.998451  0.000000e+00
+Contract_One year                0.258913             0.213154             0.314496  3.122539e-42
+Contract_Two year                0.021638             0.014640             0.031981  2.077182e-82
+InternetService_Fiber optic      1.993770             1.639012             2.425314  5.110308e-12
+InternetService_No               0.248057             0.186716             0.329548  6.659672e-22
+PaymentMethod_Electronic check   1.540229             1.336531             1.774971  2.402966e-09
+PaymentMethod_Mailed check       1.686668             1.423882             1.997953  1.453560e-09

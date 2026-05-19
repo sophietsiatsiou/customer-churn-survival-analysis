@@ -1,0 +1,5 @@
+CUSTOMER CHURN SURVIVAL ANALYSIS
+====================================
+
+Probability customer survives after 12 months: 84.32%
+Median customer lifetime: inf months
